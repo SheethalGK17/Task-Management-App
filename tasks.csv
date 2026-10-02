@@ -1,0 +1,50 @@
+1,Prepare project proposal,Prepare the initial project proposal document,Work,High,2026-09-28,2026-10-01,pending
+2,Team standup,Attend the daily development team standup,Work,Medium,2026-09-30,2026-09-30,completed
+3,Update project documentation,Update technical and functional documentation,Work,Medium,2026-09-29,2026-10-03,pending
+4,Review pull requests,Review pending pull requests from the development team,Development,High,2026-09-30,2026-10-01,pending
+5,Fix login issue,Investigate and fix the reported login issue,Development,High,2026-09-29,2026-10-02,pending
+6,Update dependencies,Update outdated application dependencies,Development,Low,2026-10-01,2026-10-05,pending
+7,Prepare sprint plan,Create tasks and priorities for the upcoming sprint,Planning,High,2026-10-01,2026-10-02,pending
+8,Client meeting,Discuss project progress and upcoming requirements,Meetings,High,2026-09-30,2026-10-01,completed
+9,Send project report,Send the weekly project status report to the client,Work,Medium,2026-10-01,2026-10-01,pending
+10,Review UI designs,Review the latest mobile application designs,Design,Medium,2026-09-30,2026-10-02,pending
+11,Implement dashboard,Develop the main dashboard screen,Development,High,2026-10-02,2026-10-07,pending
+12,Implement task list,Develop task listing with search and filters,Development,High,2026-10-03,2026-10-08,pending
+13,Implement task details,Create the task details screen,Development,Medium,2026-10-04,2026-10-07,pending
+14,Add form validation,Implement validation for task creation and editing,Development,Medium,2026-10-05,2026-10-08,pending
+15,Test navigation,Test navigation between all application screens,Testing,Low,2026-10-06,2026-10-07,pending
+16,Write unit tests,Create unit tests for important application logic,Testing,Medium,2026-10-07,2026-10-12,pending
+17,Fix reported bugs,Resolve bugs reported during testing,Testing,High,2026-10-08,2026-10-10,pending
+18,Prepare release build,Generate and verify the production application build,Release,High,2026-10-11,2026-10-13,pending
+19,Publish test build,Share the latest build with the testing team,Release,Medium,2026-10-13,2026-10-13,pending
+20,Update changelog,Document changes included in the latest release,Release,Low,2026-10-12,2026-10-14,pending
+21,Buy groceries,Purchase groceries for the week,Personal,Medium,2026-09-30,2026-10-01,pending
+22,Pay electricity bill,Pay the monthly electricity bill,Finance,High,2026-09-30,2026-10-03,pending
+23,Pay internet bill,Complete the monthly internet payment,Finance,Medium,2026-10-01,2026-10-02,completed
+24,Book dentist appointment,Schedule the next dental checkup,Personal,Medium,2026-10-02,2026-10-06,pending
+25,Renew insurance,Review and renew the vehicle insurance policy,Finance,High,2026-10-03,2026-10-10,pending
+26,Update resume,Add recent project experience to the resume,Personal,Low,2026-10-04,2026-10-08,pending
+27,Organize documents,Organize important personal documents,Personal,Low,2026-10-05,2026-10-09,pending
+28,Plan weekend trip,Prepare itinerary and travel arrangements,Travel,Medium,2026-10-06,2026-10-10,pending
+29,Book hotel,Book accommodation for the upcoming trip,Travel,High,2026-10-07,2026-10-09,pending
+30,Check flight tickets,Review flight schedules and ticket prices,Travel,Medium,2026-10-06,2026-10-08,completed
+31,Morning workout,Complete the scheduled morning workout,Health,Medium,2026-09-30,2026-09-30,completed
+32,Evening walk,Complete a 30 minute evening walk,Health,Low,2026-10-01,2026-10-01,pending
+33,Read React Native docs,Study React Native navigation documentation,Learning,Low,2026-09-28,2026-10-02,completed
+34,Practice TypeScript,Complete TypeScript practice exercises,Learning,Medium,2026-10-01,2026-10-05,pending
+35,Learn SQLite basics,Study SQLite queries and local database concepts,Learning,Medium,2026-10-02,2026-10-07,pending
+36,Watch development tutorial,Watch a tutorial on mobile performance optimization,Learning,Low,2026-10-03,2026-10-04,pending
+37,Prepare presentation,Create slides for the upcoming presentation,Work,High,2026-10-05,2026-10-08,pending
+38,Review meeting notes,Review and organize notes from the client meeting,Work,Low,2026-10-01,2026-10-02,completed
+39,Create database schema,Design the database schema for the new module,Development,High,2026-10-06,2026-10-09,pending
+40,API integration,Integrate the application with the required API,Development,High,2026-10-08,2026-10-14,pending
+41,Test CSV import,Test bulk task import using different CSV files,Testing,High,2026-10-09,2026-10-11,pending
+42,Handle CSV errors,Implement validation for invalid CSV records,Development,Medium,2026-10-10,2026-10-13,pending
+43,Add dark mode,Implement light and dark theme support,Development,Low,2026-10-11,2026-10-15,pending
+44,Optimize application,Improve application performance and reduce unnecessary renders,Development,Medium,2026-10-12,2026-10-16,pending
+45,Update README,Document application setup and usage instructions,Documentation,Low,2026-10-14,2026-10-16,pending
+46,Create demo video,Record a short video demonstrating application features,Documentation,Medium,2026-10-15,2026-10-17,pending
+47,Submit assignment,Submit the completed technical assessment,Work,High,2026-10-17,2026-10-18,pending
+48,Backup project files,Create a backup of important project files,Work,Medium,2026-10-01,2026-10-03,completed
+49,Clean workspace,Organize and clean the development workspace,Personal,Low,2026-10-02,2026-10-03,pending
+50,Plan next sprint,Prepare priorities and tasks for the next sprint,Planning,High,2026-10-16,2026-10-19,pending
